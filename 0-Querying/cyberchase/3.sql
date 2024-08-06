@@ -1,0 +1,1 @@
+SELECT "production_code" AS 'Production code of Hackerized!' FROM "episodes" WHERE "title" = 'Hackerized!';

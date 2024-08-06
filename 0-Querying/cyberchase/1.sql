@@ -1,0 +1,1 @@
+SELECT "title" FROM "episodes" WHERE "season" = 1 ORDER BY "episode_in_season" ASC;
